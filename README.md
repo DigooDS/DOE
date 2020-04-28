@@ -28,10 +28,10 @@
 ## 📁 Como baixar e rodar o projeto
 ```bash
     # para clonar o repositório
-    $ git clone https://github.com/DigooDS/Doe.git
+    $ git clone https://github.com/DigooDS/DOE.git
 
     # para entrar no diretório
-    $ cd Doe
+    $ cd DOE
 
     # para instalar as dependências
     $ yarn install
