@@ -6,7 +6,7 @@
   <img src="public/_gif/paraReadme.gif">
 </h1>
 
-## 📝 Detalhes do conteúdo
+## 📝 Sobre o projeto
 **Doe** é um simples sistema de cadastro para doadores de sangue desenvolvido através do treinamento ***"MaratonaDev"*** oferecedido pela **Rocketseat**. Foi um ótimo treinamento onde é possível adquirir conhecimentos de front-end (CSS) e backend utlizando nodejs e ferramentas como express, nodemon e nunjucks. Também contém no projeto configuração de banco de dados usando o PostgreSQL.
 
 ---
